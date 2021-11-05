@@ -74,9 +74,101 @@ body{
           }
           /* _______________________ logo complate */
 
-          .homecolor{
+          .homecolor  {
 
-            font-size: 20px;
+            font-size: 22px;
             color: black;
-            padding-top: 10px;
+            padding-top: 20px;
           }
+        .homestyle{
+font-weight: bolder;
+padding-left: 15px;
+padding-top: 20px;
+        }
+
+          /* -------------------------------------  Home complate */
+          .Explore{
+
+            font-size: 22px;
+            color: black;
+            padding-top: 20px;
+          }
+
+          /* ----------------------------------------------- */
+
+
+          .Notifications{
+
+            font-size: 22px;
+            color: black;
+            padding-top: 20px;
+         
+
+          }
+
+          /* --------------------------------------- */
+          .Messages{
+
+            font-size: 22px;
+            color: black;
+            padding-top: 20px;
+         
+
+
+          }
+
+
+          .Bookmarks{
+
+            font-size: 22px;
+            color: black;
+            padding-top: 20px;
+         
+
+
+
+          }
+  /* --------------------------------------- */
+  .Lists{
+
+    font-size: 22px;
+    color: black;
+    padding-top: 20px;
+ 
+
+
+  }
+  .Profile{
+
+    font-size: 22px;
+    color: black;
+    padding-top: 20px;
+ 
+
+
+  }
+  .More{
+
+    font-size: 22px;
+    color: black;
+    padding-top: 20px;
+ 
+
+
+  }
+
+  .button1{
+
+margin-top: 20px;
+padding: 10px 70px 10px 70px;
+font-weight: 700;
+  }
+  .Profile1{
+
+    font-size: 25px;
+    color: black;
+    padding-top: 30px;
+ 
+
+
+  }
