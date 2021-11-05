@@ -52,9 +52,9 @@ body{
          
         width: 31%;
         display: flex;
-        /* justify-content: center;
-        align-items: center; */
+      
         background-color: white;
+        
       height: 620px;
        margin-left: 2px;
         
@@ -223,4 +223,4 @@ font-weight: 700;
     box-sizing: border-box;
   }
 
-   
+ 
