@@ -40,9 +40,10 @@ body{
     
     
         width: 45%;
-        /* display: flex;
-        justify-content: left;
-        */
+        
+       justify-content: center;
+        align-items: center;
+       
         background-color: white;
       height: 620px;
     }
@@ -51,8 +52,8 @@ body{
          
         width: 31%;
         display: flex;
-        justify-content: center;
-        align-items: center;
+        /* justify-content: center;
+        align-items: center; */
         background-color: white;
       height: 620px;
        margin-left: 2px;
@@ -172,3 +173,54 @@ font-weight: 700;
 
 
   }
+
+
+  .img{
+
+ margin-left: 10px;
+    border-radius: 40px;
+
+  }
+  textarea {
+    width: 90%;
+    padding: 15px 0px 0px 15px;
+
+ 
+   
+    font-size: 18px;
+    border: none;
+  
+    overflow: auto;
+    outline: none;
+  
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  
+    resize: none;
+  }
+
+
+  
+  
+  
+  /* -------------------------------*/
+ 
+  .search-bar-icon {
+    position: relative;
+    top: 0px;
+    left: 70px;
+    
+  }
+  input.search-bar {
+    width: 350px;
+    height: 45px;
+    border-radius: 30px;
+    border-style: none;
+    background-color: #e6ecf0;
+   
+    margin: 7px 10px 0px 28px;
+    box-sizing: border-box;
+  }
+
+   
