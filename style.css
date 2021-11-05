@@ -1,0 +1,59 @@
+  
+body{
+
+
+    background-color: gainsboro;
+}
+#main{
+
+
+
+
+   
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    /* height: 685px;
+   
+    
+    background-color: gainsboro; */
+
+
+}
+
+
+
+#leftSide{
+
+    width: 24%;
+    display: flex;
+        justify-content: center;
+        align-items: center;
+      background-color: white;
+      height: 620px;
+     margin-right: 2px;
+    
+     }
+    #center{
+    
+    
+        width: 45%;
+        /* display: flex;
+        justify-content: left;
+        */
+        background-color: white;
+      height: 620px;
+    }
+    
+    #rightSide{
+         
+        width: 31%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+      height: 620px;
+       margin-left: 2px;
+        
+        }
+    
