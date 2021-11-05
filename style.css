@@ -27,8 +27,10 @@ body{
 
     width: 24%;
     display: flex;
-        justify-content: center;
-        align-items: center;
+     
+    
+    justify-content: center;
+    margin: auto;
       background-color: white;
       height: 620px;
      margin-right: 2px;
@@ -56,4 +58,25 @@ body{
        margin-left: 2px;
         
         }
-    
+        /* --------------------------------- logo start */
+        .logo{
+
+            padding-top: 10px;
+            color: rgb(29, 161, 242);
+            font-size: 30px;
+         
+        }
+        .left-menu {
+            flex-direction: column;
+            flex: 0 1 275px;
+             
+        
+          }
+          /* _______________________ logo complate */
+
+          .homecolor{
+
+            font-size: 20px;
+            color: black;
+            padding-top: 10px;
+          }
